@@ -1,6 +1,6 @@
 screenWidth =  love.graphics.getWidth()
 screenHeight = love.graphics.getHeight()
-
+-- TESTANDO GITHUB
 function love.load()
     Object = require("classic")
     require("physics")
@@ -10,7 +10,9 @@ function love.load()
 
     listOfArrows = {}
 
-    index = 0 
+    index = 0
+    
+    OTHERINDEX = 10
 
 end
 
