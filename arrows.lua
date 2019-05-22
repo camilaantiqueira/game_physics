@@ -18,6 +18,6 @@ end
 function Arrows:draw()
 end 
 
-TESTANDO
+
 
 
